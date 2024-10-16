@@ -1,4 +1,4 @@
-print("SJC22MCA-2007 : ANNA S")
+print("SJC23MCA-2017 : ANNA S")
 print("Batch : MCA 2023-25")
 import pandas as pd
 df = pd.read_csv('iriss.csv')
